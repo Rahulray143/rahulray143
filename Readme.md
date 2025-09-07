@@ -91,7 +91,7 @@ Dual-function embedded system: calculator mode + private notes app
 #### 🏃‍♂️ Real-Time Posture Correction System
 Wearable biofeedback system with vibration alerts for spinal health monitoring
 
-#### 🌡️ Contactless Body Temperature Monitor
+#### 🌡️ Monitoring Temperature using Raspberry Pi Pico
 Embedded temperature sensing system with real-time alerts
 
 <div align="center">
