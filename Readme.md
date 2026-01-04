@@ -15,24 +15,14 @@
 I am a **final-year Biomedical Engineering student** with strong hands-on experience in **medical imaging, neuroimaging workflows, and clinical biomedical equipment**.  
 My interests lie at the intersection of **MRI image processing, brain morphometric analysis, embedded healthcare systems, and medical device engineering**.
 
-- 🎓 B.E. Biomedical Engineering (CGPA: **8.5/10**)
+- 🎓 B.E. Biomedical Engineering 
 - 🧠 Neuroimaging experience with **fetal & neonatal MRI datasets**
 - 🏥 Clinical exposure to **MRI, CT, X-ray, C-Arm, Ultrasound, Endoscopy & Ventilators**
 - 🔬 Strong focus on **medical image processing, calibration, and healthcare R&D**
 
 ---
 
-### 🎓 Education
 
-**KPR Institute of Engineering and Technology**, Coimbatore  
-**B.E. Biomedical Engineering** (2022 – 2026)  
-📊 CGPA: **8.5 / 10**
-
-**Triton International College**, Kathmandu, Nepal  
-Science Stream (2020 – 2021)  
-📊 GPA: **3.33 / 4**
-
----
 
 ### 🛠️ Technical Skills & Expertise
 
