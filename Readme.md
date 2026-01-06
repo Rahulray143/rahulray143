@@ -8,8 +8,18 @@
 
 ## 🧠 Biomedical Engineer | 🩺 Medical Imaging & Neuroimaging | 💻 Embedded & Healthcare Systems
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNOcGmfZqpX2hZ4wGV1wTneR3YIo4eqQybcJ3DfdKk7FdW3fMQmc2ZO-oXEt8_uvfewDBf1N8vMkWVjB3Ya_DAZiqoSz2oyY7ZSipFBARPzM-sLX-TBo7C_S6le6zt6IA-GEB1vXSzWQ/s1600/figure1.gif" width="500" alt="Intelligent Scanning MRI Deep Learning"/>
+
+  <!-- Brain MRI Related GIF -->
+  <img src="https://media.giphy.com/media/l0HlUJZE8Uo1cSlUI/giphy.gif" width="280" alt="Brain MRI GIF"/>
+
+  <!-- Spacer -->
+  <img src="https://via.placeholder.com/40x1" alt="Spacer">
+
+  <!-- Biomedical Engineer Animation Preview -->
+  <img src="https://img.icons8.com/color/512/medical-team.png" width="280" alt="Biomedical Engineer Lottie Preview"/>
+
 </div>
+
 
 
 
@@ -160,7 +170,7 @@ My interests lie at the intersection of **MRI image processing, brain morphometr
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-yadav-171294267](https://www.linkedin.com/in/rahul-yadav-171294267/))
+[![LinkedIn](https://www.linkedin.com/in/rahul-yadav-171294267/)
 
 </div>
 
