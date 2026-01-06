@@ -7,10 +7,10 @@
 </div>
 
 ## 🧠 Biomedical Engineer | 🩺 Medical Imaging & Neuroimaging | 💻 Embedded & Healthcare Systems
-
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="420"/>
 </div>
+
 
 ---
 
