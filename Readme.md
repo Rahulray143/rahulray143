@@ -8,8 +8,9 @@
 
 ## 🧠 Biomedical Engineer | 🩺 Medical Imaging & Neuroimaging | 💻 Embedded & Healthcare Systems
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="420"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNOcGmfZqpX2hZ4wGV1wTneR3YIo4eqQybcJ3DfdKk7FdW3fMQmc2ZO-oXEt8_uvfewDBf1N8vMkWVjB3Ya_DAZiqoSz2oyY7ZSipFBARPzM-sLX-TBo7C_S6le6zt6IA-GEB1vXSzWQ/s1600/figure1.gif" width="500" alt="Intelligent Scanning MRI Deep Learning"/>
 </div>
+
 
 
 ---
