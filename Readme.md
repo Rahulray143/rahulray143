@@ -9,7 +9,7 @@
 ## 🧠 Biomedical Engineer | 🩺 Medical Imaging & Neuroimaging | 💻 Embedded & Healthcare Systems
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlUJZE8Uo1cSlUI/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="420"/>
 </div>
 
 ---
@@ -159,9 +159,7 @@ My interests lie at the intersection of **MRI image processing, brain morphometr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-yadav-171294267)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavrahulray98@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulray143)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-yadav-171294267](https://www.linkedin.com/in/rahul-yadav-171294267/))
 
 </div>
 
