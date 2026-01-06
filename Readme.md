@@ -9,10 +9,7 @@
 ## 🧠 Biomedical Engineer | 🩺 Medical Imaging & Neuroimaging | 💻 Embedded & Healthcare Systems
 <div align="center">
 
-  <!-- Heart Anatomy / Visible Body (static representation) -->
-  <img src="https://www.visiblebody.com/blog/lesson-plan-heart-failure-with-visible-body-courseware" width="380" alt="Heart Visible Body"/>
-
-  &nbsp;&nbsp;
+ 
 
   <!-- MRI Deep Learning GIF -->
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNOcGmfZqpX2hZ4wGV1wTneR3YIo4eqQybcJ3DfdKk7FdW3fMQmc2ZO-oXEt8_uvfewDBf1N8vMkWVjB3Ya_DAZiqoSz2oyY7ZSipFBARPzM-sLX-TBo7C_S6le6zt6IA-GEB1vXSzWQ/s1600/figure1.gif" width="380" alt="Intelligent Scanning MRI Deep Learning"/>
@@ -166,20 +163,4 @@ My interests lie at the intersection of **MRI image processing, brain morphometr
 
 ---
 
-### 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://www.linkedin.com/in/rahul-yadav-171294267/)
-
-</div>
-
----
-
-<div align="center">
-  <em><b>Building impactful healthcare solutions through medical imaging, engineering, and code 🧠💻</b></em>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahulray143&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
